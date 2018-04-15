@@ -1,7 +1,4 @@
-# Scrumex's open source documentation
-
-
-Welcome to Scrumex's documentation!
+Scrumex's open source documentation
 ==========================================
 
 `Scrumex <http://scrumex.com/>`_ is a tool for project management using Scrum as framework.
