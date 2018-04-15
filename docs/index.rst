@@ -26,13 +26,10 @@ Features
 * Create and monitor Sprints with your team and a simple burndown chart
 
 
-Create a new project
+How to create a new project
 -------------------
 
 `Scrumex <http://workplace.scrumex.com/>`_ let's you create new project to manage your product backlog. 
-
-How to create a new project
--------------------
 
 * Create an account or `login in Scrumex  <https://workplace.scrumex.com/sessions/new>`_ 
 * Access this page `to create a new project <https://workplace.scrumex.com/app/projects/new>`_
