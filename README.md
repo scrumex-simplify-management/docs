@@ -1,8 +1,6 @@
 # Scrumex's open source documentation
 
 
-.. Scrumex documentation master file, created by
-
 Welcome to Scrumex's documentation!
 ==========================================
 
