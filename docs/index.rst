@@ -99,3 +99,16 @@ Backlog prioritization
 
 Once you have created a few user stories, they will appear in your backlog by default. A new story is automatically added at the bottom of the backlog and so it has the lowest priority. To give a story an higher priority you can click, hold and drag a story up the backlog. This drag&drop feature is persisted and will give the stories an order of priority. 
 
+Create a Sprint
+-------------------
+
+A scrum sprint is a regular, repeatable work cycle in scrum methodology during which work is completed and made ready for review. Scrum sprints are basic units of development in the scrum methodology. They have a name, a start date and an end date. 
+They are a collection of user stories that the team agrees can be done between the end and start of the sprint cycle. Usually sprints are 1 or 2 weeks long. It is recommended to not start a new sprint until the previous one is completed and all user stories that are not yet done moved back in the backlog. It is also highly recommended to have consistency on the work cycle of all sprints. Each sprint should start right after the previous one and should have the same length in days. 
+
+Add stories to a sprint
+-------------------
+
+Once a sprint is newly created, the user stories can move from the backlog to the sprint. To do so open the stories on top of the backlog and click on 'edit' that is found on the sidebar on the right side of the story. This will list all active sprints that you can choose from, select the sprint in which the story should be moved to and click on 'save'.
+
+
+
